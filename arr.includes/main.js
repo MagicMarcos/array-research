@@ -1,0 +1,11 @@
+/////description////
+
+////how it works////
+
+////time complexity////
+
+////ex1////
+
+////ex2////
+
+////ex3////
