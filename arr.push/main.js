@@ -9,6 +9,8 @@
 // adds one or more elements to the end of an array and returns the new length of the array.
 
 ////time complexity////
+// Array.push() has a Constant Time Complexity and so is O(1). All it does is add an element and give it an index that’s 1 greater than the index of the last element in the array. So it doesn’t matter whether the array has 10 elements or 1000. The number of operations that needs to be performed won’t change.
+
 
 ////ex1////
 let sports = ['soccer', 'baseball']

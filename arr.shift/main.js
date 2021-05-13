@@ -9,7 +9,8 @@
     // removes the first element from an array and returns that removed element. This method changes the length of the array.
 
 ////time complexity////
-
+    // has a Linear Time Complexity and is O(n). The index of all elements in the array change
+    
 ////ex1////
 var myFish = ['angel', 'clown', 'mandarin', 'surgeon'];
 

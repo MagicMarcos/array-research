@@ -9,6 +9,7 @@
 // Please note that, if multiple elements are passed as parameters, they're inserted in chunk at the beginning of the object, in the exact same order they were passed as parameters. Hence, calling unshift with n arguments once, or calling it n times with 1 argument (with a loop, for example), don't yield the same results
 
 ////time complexity////
+// Adding an element at the beginning of an array means the new element will have an index of 0. Which means that the index of every other element must be incremented by 1. So Array.unshift() has a Linear Time Complexity and is O(n).
 
 ////ex1////
 const array1 = [1, 2, 3];

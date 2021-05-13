@@ -6,7 +6,8 @@
 //you may also set an index from which the method begins 
 
 ////time complexity////
-
+    // Linear Time Complexity O(n), all methods that loop through the enttire array tend to be linear time complexity rather than constant
+    
 ////ex1////
 var array = [2, 9, 9];
 array.indexOf(2);     // 0

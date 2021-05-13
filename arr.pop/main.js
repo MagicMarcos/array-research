@@ -12,6 +12,7 @@
 // method removes the last element from an array and returns that element. -- changes array length
 
 ////time complexity////
+// Array.pop() is O(1) has a Constant Time Complexity
 
 ////ex1////
 var myFish = ['angel', 'clown', 'mandarin', 'sturgeon'];

@@ -23,7 +23,8 @@
     // Value to use as this when executing callbackFn.
 
 ////time complexity////
-
+    // Linear Time Complexity O(n), all methods that loop through the enttire array tend to be linear time complexity rather than constant.
+    
 ////ex1////
 let numbers = [1, 4, 9]
 let roots = numbers.map(function(num) {
